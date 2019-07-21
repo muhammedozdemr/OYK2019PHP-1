@@ -27,13 +27,13 @@ Linux işletim sisteminin çekirdeğinin diğer işletim sistemlerinin pek çoğ
 **Debian**, günümüze kadar ulaşmış ve hala sayısız kullanıcı tarafından kullanılan GNU/Hurd, GNU/Linuxgibi farklı çekirdek seçeneklerine bağlı özgür bir Linux dağıtımıdır. 
 
 #### Red Hat Nedir?
-Red Hat, Türkçesiyle Kırmızı Şapka, başta açık kaynak kodlu yazılımlar olmak üzere Linux tabanlı çalışan en gelişmiş ve profesyonelleşmiş yazılım şirketlerinden biridir. 
+**Red Hat**, Türkçesiyle Kırmızı Şapka, başta açık kaynak kodlu yazılımlar olmak üzere Linux tabanlı çalışan en gelişmiş ve profesyonelleşmiş yazılım şirketlerinden biridir. 
 
 ### RFC (Request for Comment) Nedir?
 1969 yılından günümüze kadar ortaya koyulan standartların saklandığı döküman arşividir. TCP/IP standartları, Request For Comment(RFC) denilen dökümanlar içinde yayınlanmıştır. RFC’lerde internetin işleyişi açıklanır. 
 
 ### Betik Dili Nedir?
-Betik dili, web sayfalarında dinamik içerik sağlamak ve kullanıcıyla iletişim kurmak için kullanılan, istemci tarafında çalışan bir dildir.
+**Betik dili**, web sayfalarında dinamik içerik sağlamak ve kullanıcıyla iletişim kurmak için kullanılan, istemci tarafında çalışan bir dildir.
 
 ### CGI Nedir?
 **CGI**,(Common Gateway Interface) yani Bilgisayar üretimli imgeleme deniliyor. Genel olarak bilgisayar ile yaratılmış görüntü diyebiliriz.
@@ -47,6 +47,7 @@ Betik dili, web sayfalarında dinamik içerik sağlamak ve kullanıcıyla ileti�
 ### MySQL? MariaDB?
 
 **MySQL**, altı milyondan fazla sistemde yüklü bulunan çoklu iş parçacıklı, çok kullanıcılı, hızlı ve sağlam bir veri tabanı yönetim sistemidir.
+
 **MariaDB**, ilişkisel veritabanı sistemi olan MySQL'in kaynak kodundan türemiş, GNU Genel Kamu Lisansı altında dağıtılarak ücretsiz olarak kullanılabilen, geliştirilmesi ve bakımı topluluk tarafından sürdürülen veritabanıdır.
 
 ### Servis Nedir?
